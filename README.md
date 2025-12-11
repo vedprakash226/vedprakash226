@@ -21,7 +21,7 @@
 
 **Domains:**  
 `Audio ML` `System Design` `Algorithms` `Embedded Systems`  
-`Power Electronics` `Signal Processing`
+`Web Development` `Signal Processing` `Cryptographic Protocols`
 
 ---
 
